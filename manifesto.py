@@ -44,7 +44,7 @@ class manifestoGENAI:
         """
         # Centralizando o título em 80 caracteres
         titulo = "TENHA CALMA E ESTUDE SEMPRE"
-        subtitulo = "Um manifesto sobre boas práticas de uso da IA generativa"
+        subtitulo = "Um manifesto sobre boas práticas de uso das IAs generativas"
         autor = "Autor: Mário Lúcio"
 
 
