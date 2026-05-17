@@ -1,6 +1,6 @@
 [project]
 name = "manifestoGENAI"
-version = "0.1"
+version = "0.2"
 description = "Add your description here"
 authors = [{name = "Mario Lucio", email = "mariolucio@prazocerto.me"}]
 readme = "README.md"
