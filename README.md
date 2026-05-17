@@ -23,6 +23,21 @@ A intenção do manifesto acróstico “Tenha calma e estude sempre” é reduzi
 ## Estrutura do projeto
 O projeto tem um arquivo python que mostra os 23 princípios do Manifesto GENAI
 
+### Como usar no Google Colab
+
+Como o projeto está publicado no PyPI você só precisa seguir este passo a passo: 
+
+1 - Instale o projeto
+```python
+!pip install -qU manifestoGENAI
+```
+
+2 - Importe o pacote necessário e execute a classe
+```python
+import manifesto as mnf
+mnf.manifestoGENAI();
+```
+
 ## Tecnologias utilizadas
 
 <table>
